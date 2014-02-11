@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
-	<entry key="GanysEnd">155|1.5.5|http://goo.gl/v679MA</entry>
-	<entry key="GanysNether">154|1.5.4|http://goo.gl/lPOkom</entry>
-	<entry key="GanysSurface">153|1.5.3|http://goo.gl/jEPMrM</entry>
+	<entry key="GanysEnd">156|1.5.6|http://goo.gl/v679MA</entry>
+	<entry key="GanysNether">155|1.5.5|http://goo.gl/lPOkom</entry>
+	<entry key="GanysSurface">154|1.5.4|http://goo.gl/jEPMrM</entry>
 	<entry key="MobSplice">0.0.1|http://goo.gl/1fF9EX</entry>
 </properties>
