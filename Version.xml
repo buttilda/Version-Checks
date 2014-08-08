@@ -2,7 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
 	<entry key="GanysEnd">180|1.8.0|http://goo.gl/v679MA</entry>
-	<entry key="GanysNether">173|1.7.3|http://goo.gl/lPOkom</entry>
+	<entry key="GanysNether">174|1.7.4|http://goo.gl/lPOkom</entry>
 	<entry key="GanysSurface">180|1.8.0|http://goo.gl/jEPMrM</entry>
 	<entry key="MobSplice">0.0.2|http://goo.gl/1fF9EX</entry>
 </properties>
