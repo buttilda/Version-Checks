@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
-	<entry key="GanysEnd">183|1.8.3|http://goo.gl/v679MA</entry>
+	<entry key="GanysEnd">184|1.8.4|http://goo.gl/v679MA</entry>
 	<entry key="GanysNether">176|1.7.6|http://goo.gl/lPOkom</entry>
 	<entry key="GanysSurface">193|1.9.3|http://goo.gl/jEPMrM</entry>
 </properties>
