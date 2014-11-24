@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
-	<entry key="GanysEnd">184|1.8.4|http://minecraft.curseforge.com/mc-mods/222084-ganys-end</entry>
+	<entry key="GanysEnd">185|1.8.5|http://minecraft.curseforge.com/mc-mods/222084-ganys-end</entry>
 	<entry key="GanysNether">177|1.7.7|http://minecraft.curseforge.com/mc-mods/222302-ganys-nether</entry>
 	<entry key="GanysSurface">193|1.9.3|http://minecraft.curseforge.com/mc-mods/222303-ganys-surface</entry>
 </properties>
