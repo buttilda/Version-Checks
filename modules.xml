@@ -1,5 +1,4 @@
 <modules>
-    <module1 name="Version.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Version.xml</module1>
     <module2 name="Module1.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</module2>
     <module3 name="Module3.xml">modules3.xml</module3>
     <module4 name="Module4.xml">modules4.xml</module4>
