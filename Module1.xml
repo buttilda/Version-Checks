@@ -1,4 +1,4 @@
-<module>
+<modulo>
     <deps>
         <dep1 name="Dep.dll">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Version.xml</dep1>
     </deps>
@@ -8,4 +8,4 @@
         <filtro3 tipo="codigo">-2147287039, -2147467259, 9999</filtro3>
         <filtro4 tipo="linha">6</filtro4>
     </filtros>
-</module>
+</modulo>
