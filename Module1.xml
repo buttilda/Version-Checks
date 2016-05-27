@@ -1,6 +1,6 @@
 <modulo>
     <deps>
-        <dep1 name="Dep.dll">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Version.xml</dep1>
+        <dep1 nome="Dep.dll">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Version.xml</dep1>
     </deps>
     <filtros>
         <filtro1 tipo="classe">basImpressao.bas</filtro1>
