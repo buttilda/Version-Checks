@@ -1,7 +1,4 @@
-<modules>
-    <module2 name="Module1.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</module2>
-    <module3 name="Module2.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</module3>
-    <module4 name="Module4.xml">modules4.xml</module4>
-    <module5 name="Module5.xml">modules5.xml</module5>
-    <module6 name="Module6.xml">modules6.xml</module6>
-</modules>
+<modulos>
+    <modulo2 nome="Modulo1.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</modulo2>
+    <modulo3 nome="Modulo2.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</modulo3>
+</moduoes>
