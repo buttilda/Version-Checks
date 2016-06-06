@@ -1,12 +1,12 @@
 <modulo>
     <deps>
        
- <dep1 nome="ReparoComponentes.RegistrarOCX" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/AgentDLL_ImpressoraPadrao.dll</dep1>
+ <dep1 nome="ReparoComponentes.RegistrarOCX" tipo="dll"https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
     </deps>
  
    <filtros>
    
-   <filtro4 tipo="codigo">711</filtro4>
+   <filtro1 tipo="codigo">711</filtro1>
 
   </filtros>
 </modulo>
