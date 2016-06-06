@@ -1,0 +1,12 @@
+<modulo>
+    <deps>
+       
+ <dep1 nome="ReparoComponentes.RegistrarDLL" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
+    </deps>
+ 
+   <filtros>
+   
+   <filtro4 tipo="codigo">429</filtro4>
+
+  </filtros>
+</modulo>
