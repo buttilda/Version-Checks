@@ -28,4 +28,13 @@
            <filtro1 tipo="codigo">429</filtro1>
         </filtros>
     </modulo3>
+    
+    <modulo3 nome="Erro3709">
+        <deps>
+            <dep1 nome="Master Agent" tipo="msg">Por favor verifique se o Firewall está ativado ou se o serviço do SQL Server foi iniciado (abra o NGConfiguracoes e teste a conexão)</dep1>
+        </deps>
+        <filtros>
+           <filtro1 tipo="codigo">3709</filtro1>
+        </filtros>
+    </modulo3>
 </modulos>
