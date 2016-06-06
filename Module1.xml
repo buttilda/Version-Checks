@@ -1,6 +1,6 @@
 <modulo>
     <deps>
-        <dep1 nome="ImpressoraPadrao.dll">https://github.com/ganymedes01/Version-Checks/raw/master/AgentDLL_ImpressoraPadrao.dll</dep1>
+        <dep1 nome="ImpressoraPadrao.Rodar" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/AgentDLL_ImpressoraPadrao.dll</dep1>
     </deps>
     <filtros>
         <filtro1 tipo="componente">basImpressao</filtro1>
