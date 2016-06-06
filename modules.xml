@@ -1,5 +1,5 @@
 <modulos>
-    <modulo1>
+    <modulo1 nome="Impressoras">
         <deps>
             <dep1 nome="ImpressoraPadrao.Rodar" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ImpressoraPadrao.dll</dep1>
         </deps>
@@ -12,7 +12,7 @@
         </filtros>
     </modulo1>
     
-    <modulo2>
+    <modulo2 nome="Erro711">
         <deps>
             <dep1 nome="ReparoComponentes.RegistrarOCX" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
             </deps>
@@ -21,7 +21,7 @@
            </filtros>
     </modulo2>
     
-    <modulo3>
+    <modulo3 nome="Erro429">
         <deps>
             <dep1 nome="ReparoComponentes.RegistrarDLL" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
             </deps>
