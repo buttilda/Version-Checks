@@ -1,5 +1,5 @@
 <modulos>
     <modulo1 nome="Modulo1.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</modulo1>
-    <modulo2 nome="Modulo2.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module2.xml</modulo2>
-    <modulo3 nome="Modulo3.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module3.xml</modulo2>
+    <modulo2 nome="Modulo2.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Modulo2.xml</modulo2>
+    <modulo3 nome="Modulo3.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Modulo3.xml</modulo2>
 </modulos>
