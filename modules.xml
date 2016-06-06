@@ -25,7 +25,7 @@
             <dep1 nome="ReparoComponentes.RegistrarDLL" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
         </deps>
         <filtros>
-           <filtro1 tipo="codigo">429</filtro1>
+           <filtro1 tipo="codigo">429 | 32797</filtro1>
         </filtros>
     </modulo3>
     
