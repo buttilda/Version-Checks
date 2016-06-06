@@ -1,5 +1,30 @@
-<modulos>
-    <modulo1 nome="Modulo1.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Module1.xml</modulo1>
-    <modulo2 nome="Modulo2.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Modulo2.xml</modulo2>
-    <modulo3 nome="Modulo3.xml">https://raw.githubusercontent.com/ganymedes01/Version-Checks/master/Modulo3.xml</modulo2>
-</modulos>
+<modulo1>
+    <deps>
+        <dep1 nome="ImpressoraPadrao.Rodar" tipo="dll">https://github.com/ganymedes01/Version-Checks/raw/master/ImpressoraPadrao.dll</dep1>
+    </deps>
+    <filtros>
+        <filtro1 tipo="componente">basImpressao</filtro1>
+        <filtro2 tipo="classe">bas</filtro2>
+        <filtro3 tipo="funcao">ImprimeRelatorio</filtro3>
+        <filtro4 tipo="codigo">-2147287039 | -2147467259 | 9999</filtro4>
+        <filtro5 tipo="linha">6</filtro5>
+    </filtros>
+</modulo1>
+
+<modulo2>
+    <deps>
+        <dep1 nome="ReparoComponentes.RegistrarOCX" tipo="dll"https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
+        </deps>
+   <filtros>
+       <filtro1 tipo="codigo">711</filtro1>
+       </filtros>
+</modulo2>
+
+<modulo3>
+    <deps>
+        <dep1 nome="ReparoComponentes.RegistrarDLL" tipo="dll"https://github.com/ganymedes01/Version-Checks/raw/master/ReparoComponentes.dll</dep1>
+        </deps>
+   <filtros>
+       <filtro1 tipo="codigo">429</filtro1>
+       </filtros>
+</modulo3>
