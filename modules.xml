@@ -37,4 +37,13 @@
            <filtro1 tipo="codigo">3709</filtro1>
         </filtros>
     </modulo3>
+    
+    <modulo2 nome="Erro713">
+        <deps>
+        </deps>
+        <filtros>
+           <filtro1 tipo="codigo">713</filtro1>
+           <filtro2 tipo="descricao">Class not registered. Looking for object with CLSID:{3C3EDBA4-58D1-4A4A-8796-20B0C5C3DB50}</filtro2>
+        </filtros>
+    </modulo2>
 </modulos>
